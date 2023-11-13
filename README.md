@@ -1,4 +1,4 @@
-# 🖩 JS-Calculator-Assignment 
+#  JS-Calculator-Assignment 
 
 #   Tools 🛠️  :
   - JavaScript
@@ -8,4 +8,4 @@
   - Figma
   - Adobe XD
 
- https://enriquedonaire.github.io/JS-Calculator-Assignment 
+ https://enriquedonaire.github.io/JS-Calculator-Assignment  🖩
