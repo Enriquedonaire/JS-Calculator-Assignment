@@ -1,4 +1,4 @@
-#   🖩 JS-Calculator-Assignment  
+#   JS-Calculator-Assignment   🖩
 
 #  Tools 🛠️:
   - JavaScript
